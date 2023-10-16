@@ -2,7 +2,5 @@
 @import url(https://zuzumi-f.github.io/Discord-11/release/font/SegoeUIVariableStaticDisplay.ttf);
 /* Font */
 :root {
-    --font-primary: Segoe UI, sans-serif;
-    --font-display: Segoe UI, sans-serif;
-    --font-headline: Segoe UI, sans-serif;
+  --customFont: Comic Sans MS;
 }
